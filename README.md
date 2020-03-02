@@ -1,4 +1,4 @@
 # Závěrečná práce z informatiky
 
 TO-DO:
- * vše
+ * README.md
